@@ -17,7 +17,7 @@
     "@segment/snippet": "^4.4.0",
     "faker": "^4.1.0",
     "fuzzaldrin-plus": "^0.6.0",
-    "gatsby": "^2.0.8",
+    "gatsby": "^2.16.2",
     "gatsby-mdx": "^0.1.4",
     "gatsby-plugin-canonical-urls": "^2.0.12",
     "gatsby-plugin-favicon": "^3.1.4",
